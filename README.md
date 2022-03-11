@@ -1,4 +1,4 @@
-# auto
+# autorun
 Main functions: software automatically starts after startup, background operation, regularly open external programs, input text after opening (account password, etc.)
 
 主要功能：开机后软件自行启动，后台运行，定时打开外部程序，打开后输入文字（账号密码等）
